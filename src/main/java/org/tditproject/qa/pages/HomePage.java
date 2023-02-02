@@ -92,7 +92,9 @@ public class HomePage {
 	}
 		
 	public void isDisplayed() {
-		System.out.println("Yes");
+		System.out.println("no");
+		System.out.println("no");
+		
 	
 		
 	}
