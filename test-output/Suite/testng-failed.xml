@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="org.tditproject.qa.tests.HomePageTest">
+        <methods>
+          <include name="beforeMathod"/>
+          <include name="verify_Sidebar_Headers"/>
+          <include name="afterMethod"/>
+          <include name="verify_Sidebar_Header_Links"/>
+        </methods>
+      </class> <!-- org.tditproject.qa.tests.HomePageTest -->
+      <class name="org.tditproject.qa.tests.LoginPageTest">
+        <methods>
+          <include name="beforeMathod"/>
+          <include name="verify_Incorrect_Login"/>
+          <include name="verify_LoginPage_Tittle"/>
+          <include name="afterMethod"/>
+          <include name="verify_LoginPage_Header"/>
+          <include name="verify_Correct_Login"/>
+          <include name="verify_Blank_Inputs"/>
+        </methods>
+      </class> <!-- org.tditproject.qa.tests.LoginPageTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

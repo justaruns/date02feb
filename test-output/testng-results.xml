@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="40383" started-at="2023-01-27T10:07:39 IST" finished-at="2023-01-27T10:08:19 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="40383" started-at="2023-01-27T10:07:39 IST" finished-at="2023-01-27T10:08:19 IST">
+      <class name="org.tditproject.qa.tests.LoginPageTest">
+        <test-method status="PASS" signature="beforeMathod()[pri:0, instance:org.tditproject.qa.tests.LoginPageTest@76707e36]" name="beforeMathod" is-config="true" duration-ms="14168" started-at="2023-01-27T10:07:39 IST" finished-at="2023-01-27T10:07:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMathod -->
+        <test-method status="PASS" signature="verify_Blank_Inputs()[pri:0, instance:org.tditproject.qa.tests.LoginPageTest@76707e36]" name="verify_Blank_Inputs" duration-ms="489" started-at="2023-01-27T10:07:53 IST" finished-at="2023-01-27T10:07:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_Blank_Inputs -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:org.tditproject.qa.tests.LoginPageTest@76707e36]" name="afterMethod" is-config="true" duration-ms="751" started-at="2023-01-27T10:07:53 IST" finished-at="2023-01-27T10:07:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMathod()[pri:0, instance:org.tditproject.qa.tests.LoginPageTest@76707e36]" name="beforeMathod" is-config="true" duration-ms="2122" started-at="2023-01-27T10:07:54 IST" finished-at="2023-01-27T10:07:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMathod -->
+        <test-method status="PASS" signature="verify_Correct_Login()[pri:0, instance:org.tditproject.qa.tests.LoginPageTest@76707e36]" name="verify_Correct_Login" duration-ms="1339" started-at="2023-01-27T10:07:56 IST" finished-at="2023-01-27T10:07:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_Correct_Login -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:org.tditproject.qa.tests.LoginPageTest@76707e36]" name="afterMethod" is-config="true" duration-ms="759" started-at="2023-01-27T10:07:57 IST" finished-at="2023-01-27T10:07:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMathod()[pri:0, instance:org.tditproject.qa.tests.LoginPageTest@76707e36]" name="beforeMathod" is-config="true" duration-ms="1969" started-at="2023-01-27T10:07:58 IST" finished-at="2023-01-27T10:08:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMathod -->
+        <test-method status="PASS" signature="verify_Incorrect_Login()[pri:0, instance:org.tditproject.qa.tests.LoginPageTest@76707e36]" name="verify_Incorrect_Login" duration-ms="456" started-at="2023-01-27T10:08:00 IST" finished-at="2023-01-27T10:08:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_Incorrect_Login -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:org.tditproject.qa.tests.LoginPageTest@76707e36]" name="afterMethod" is-config="true" duration-ms="756" started-at="2023-01-27T10:08:01 IST" finished-at="2023-01-27T10:08:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMathod()[pri:0, instance:org.tditproject.qa.tests.LoginPageTest@76707e36]" name="beforeMathod" is-config="true" duration-ms="2945" started-at="2023-01-27T10:08:01 IST" finished-at="2023-01-27T10:08:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMathod -->
+        <test-method status="PASS" signature="verify_LoginPage_Header()[pri:0, instance:org.tditproject.qa.tests.LoginPageTest@76707e36]" name="verify_LoginPage_Header" duration-ms="63" started-at="2023-01-27T10:08:04 IST" finished-at="2023-01-27T10:08:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_LoginPage_Header -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:org.tditproject.qa.tests.LoginPageTest@76707e36]" name="afterMethod" is-config="true" duration-ms="744" started-at="2023-01-27T10:08:04 IST" finished-at="2023-01-27T10:08:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMathod()[pri:0, instance:org.tditproject.qa.tests.LoginPageTest@76707e36]" name="beforeMathod" is-config="true" duration-ms="2098" started-at="2023-01-27T10:08:05 IST" finished-at="2023-01-27T10:08:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMathod -->
+        <test-method status="PASS" signature="verify_LoginPage_Tittle()[pri:0, instance:org.tditproject.qa.tests.LoginPageTest@76707e36]" name="verify_LoginPage_Tittle" duration-ms="66" started-at="2023-01-27T10:08:07 IST" finished-at="2023-01-27T10:08:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_LoginPage_Tittle -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:org.tditproject.qa.tests.LoginPageTest@76707e36]" name="afterMethod" is-config="true" duration-ms="765" started-at="2023-01-27T10:08:07 IST" finished-at="2023-01-27T10:08:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- org.tditproject.qa.tests.LoginPageTest -->
+      <class name="org.tditproject.qa.tests.HomePageTest">
+        <test-method status="PASS" signature="beforeMathod()[pri:0, instance:org.tditproject.qa.tests.HomePageTest@614ddd49]" name="beforeMathod" is-config="true" duration-ms="2033" started-at="2023-01-27T10:08:08 IST" finished-at="2023-01-27T10:08:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMathod -->
+        <test-method status="PASS" signature="verify_Sidebar_Header_Links()[pri:0, instance:org.tditproject.qa.tests.HomePageTest@614ddd49]" name="verify_Sidebar_Header_Links" duration-ms="1176" started-at="2023-01-27T10:08:10 IST" finished-at="2023-01-27T10:08:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_Sidebar_Header_Links -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:org.tditproject.qa.tests.HomePageTest@614ddd49]" name="afterMethod" is-config="true" duration-ms="756" started-at="2023-01-27T10:08:11 IST" finished-at="2023-01-27T10:08:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMathod()[pri:0, instance:org.tditproject.qa.tests.HomePageTest@614ddd49]" name="beforeMathod" is-config="true" duration-ms="2002" started-at="2023-01-27T10:08:12 IST" finished-at="2023-01-27T10:08:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMathod -->
+        <test-method status="PASS" signature="verify_Sidebar_Headers()[pri:0, instance:org.tditproject.qa.tests.HomePageTest@614ddd49]" name="verify_Sidebar_Headers" duration-ms="4090" started-at="2023-01-27T10:08:14 IST" finished-at="2023-01-27T10:08:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_Sidebar_Headers -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:org.tditproject.qa.tests.HomePageTest@614ddd49]" name="afterMethod" is-config="true" duration-ms="769" started-at="2023-01-27T10:08:18 IST" finished-at="2023-01-27T10:08:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- org.tditproject.qa.tests.HomePageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
